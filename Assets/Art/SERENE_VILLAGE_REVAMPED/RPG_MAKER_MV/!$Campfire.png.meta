@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: b6c153b9f0ade29408f2321ef68f9586
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2881157035862314657
+    second: '!$Campfire_0'
+  - first:
+      213: -4182732623569883267
+    second: '!$Campfire_1'
+  - first:
+      213: -9220575513720296618
+    second: '!$Campfire_2'
+  - first:
+      213: 909527393322105576
+    second: '!$Campfire_3'
+  - first:
+      213: -7381745585797278075
+    second: '!$Campfire_4'
+  - first:
+      213: -8819264010340626589
+    second: '!$Campfire_5'
+  - first:
+      213: -2188720482810841377
+    second: '!$Campfire_6'
+  - first:
+      213: -5700316194398913946
+    second: '!$Campfire_7'
+  - first:
+      213: -1326436791068712740
+    second: '!$Campfire_8'
+  - first:
+      213: 8070432294776623523
+    second: '!$Campfire_9'
+  - first:
+      213: -1364540398139327501
+    second: '!$Campfire_10'
+  - first:
+      213: -7703952098340702430
+    second: '!$Campfire_11'
+  - first:
+      213: 7279603193854665194
+    second: '!$Campfire_12'
+  - first:
+      213: 7100566000289412335
+    second: '!$Campfire_13'
+  - first:
+      213: 7431145607933696264
+    second: '!$Campfire_14'
+  - first:
+      213: 4124905917727040294
+    second: '!$Campfire_15'
+  - first:
+      213: 6216596716983833349
+    second: '!$Campfire_16'
+  - first:
+      213: 3394616934764071768
+    second: '!$Campfire_17'
+  - first:
+      213: 3289372351145460847
+    second: '!$Campfire_18'
+  - first:
+      213: -7563574057495634003
+    second: '!$Campfire_19'
+  - first:
+      213: -1103900104161530731
+    second: '!$Campfire_20'
+  - first:
+      213: -3699141084923206053
+    second: '!$Campfire_21'
+  - first:
+      213: -4462327073156308479
+    second: '!$Campfire_22'
+  - first:
+      213: -2438345975896414861
+    second: '!$Campfire_23'
+  - first:
+      213: 1520993072555124415
+    second: '!$Campfire_24'
+  - first:
+      213: 4374021116977069244
+    second: '!$Campfire_25'
+  - first:
+      213: -7651393929775687469
+    second: '!$Campfire_26'
+  - first:
+      213: 7511600682420321549
+    second: '!$Campfire_27'
+  - first:
+      213: -308286471292743640
+    second: '!$Campfire_28'
+  - first:
+      213: 5517079122628341549
+    second: '!$Campfire_29'
+  - first:
+      213: -2993622059789611910
+    second: '!$Campfire_30'
+  - first:
+      213: 1418025073078438299
+    second: '!$Campfire_31'
+  - first:
+      213: 7981376013925480765
+    second: '!$Campfire_32'
+  - first:
+      213: -3919623698210357925
+    second: '!$Campfire_33'
+  - first:
+      213: -924549515974928457
+    second: '!$Campfire_34'
+  - first:
+      213: -6976203153001676581
+    second: '!$Campfire_35'
+  - first:
+      213: -219319747540750923
+    second: '!$Campfire_36'
+  - first:
+      213: -264007538140271814
+    second: '!$Campfire_37'
+  - first:
+      213: -2237148654098642262
+    second: '!$Campfire_38'
+  - first:
+      213: -4799993006562782233
+    second: '!$Campfire_39'
+  - first:
+      213: 2480116744107005476
+    second: '!$Campfire_40'
+  - first:
+      213: 2227881060236201603
+    second: '!$Campfire_41'
+  - first:
+      213: -4347506993976269446
+    second: '!$Campfire_42'
+  - first:
+      213: -3086146372190152587
+    second: '!$Campfire_43'
+  - first:
+      213: -8722744047094469722
+    second: '!$Campfire_44'
+  - first:
+      213: 6858729492520191619
+    second: '!$Campfire_45'
+  - first:
+      213: -2106218342248185937
+    second: '!$Campfire_46'
+  - first:
+      213: 7401417384809856850
+    second: '!$Campfire_47'
+  - first:
+      213: 7057912465261211739
+    second: '!$Campfire_48'
+  - first:
+      213: -2328591899685505749
+    second: '!$Campfire_49'
+  - first:
+      213: 7057603031781551898
+    second: '!$Campfire_50'
+  - first:
+      213: -3954130132822777050
+    second: '!$Campfire_51'
+  - first:
+      213: -8188551592210239868
+    second: '!$Campfire_52'
+  - first:
+      213: -2697572551659579407
+    second: '!$Campfire_53'
+  - first:
+      213: -6049517496086521467
+    second: '!$Campfire_54'
+  - first:
+      213: -5978633029886139730
+    second: '!$Campfire_55'
+  - first:
+      213: 2100150745396994330
+    second: '!$Campfire_56'
+  - first:
+      213: -3500078995557030869
+    second: '!$Campfire_57'
+  - first:
+      213: 4123193521537932098
+    second: '!$Campfire_58'
+  - first:
+      213: 7584931073610866123
+    second: '!$Campfire_59'
+  - first:
+      213: 5011993457388813944
+    second: '!$Campfire_60'
+  - first:
+      213: -9163896372404937158
+    second: '!$Campfire_61'
+  - first:
+      213: -711356219921701909
+    second: '!$Campfire_62'
+  - first:
+      213: -4010890709589327121
+    second: '!$Campfire_63'
+  - first:
+      213: 4062328020451750389
+    second: '!$Campfire_64'
+  - first:
+      213: 95424665987037140
+    second: '!$Campfire_65'
+  - first:
+      213: -2254652332313438739
+    second: '!$Campfire_66'
+  - first:
+      213: 6544050546946348426
+    second: '!$Campfire_67'
+  - first:
+      213: 8061124097485967460
+    second: '!$Campfire_68'
+  - first:
+      213: 6136397830740332392
+    second: '!$Campfire_69'
+  - first:
+      213: -4374930605477295842
+    second: '!$Campfire_70'
+  - first:
+      213: 2658143012894440032
+    second: '!$Campfire_71'
+  - first:
+      213: 5240862180609522452
+    second: '!$Campfire_72'
+  - first:
+      213: 6263768687778505943
+    second: '!$Campfire_73'
+  - first:
+      213: -6796112055177106014
+    second: '!$Campfire_74'
+  - first:
+      213: 8995115272216075198
+    second: '!$Campfire_75'
+  - first:
+      213: -5789677090148157441
+    second: '!$Campfire_76'
+  - first:
+      213: 4328575998421813132
+    second: '!$Campfire_77'
+  - first:
+      213: 1184169527651416635
+    second: '!$Campfire_78'
+  - first:
+      213: -8312683762409504245
+    second: '!$Campfire_79'
+  - first:
+      213: -7665968572748853166
+    second: '!$Campfire_80'
+  - first:
+      213: 5045171351222493188
+    second: '!$Campfire_81'
+  - first:
+      213: -7913412635309201685
+    second: '!$Campfire_82'
+  - first:
+      213: -8188674903490102547
+    second: '!$Campfire_83'
+  - first:
+      213: 7957482804738652268
+    second: '!$Campfire_84'
+  - first:
+      213: -6487691269673621789
+    second: '!$Campfire_85'
+  - first:
+      213: 4184495778140944332
+    second: '!$Campfire_86'
+  - first:
+      213: 6177629257640560682
+    second: '!$Campfire_87'
+  - first:
+      213: 4793286648557272877
+    second: '!$Campfire_88'
+  - first:
+      213: -5839088213799005687
+    second: '!$Campfire_89'
+  - first:
+      213: 3728450281235277874
+    second: '!$Campfire_90'
+  - first:
+      213: -1884216246131455665
+    second: '!$Campfire_91'
+  - first:
+      213: 7757583810223852684
+    second: '!$Campfire_92'
+  - first:
+      213: 1219208311513645707
+    second: '!$Campfire_93'
+  - first:
+      213: 2047768041311616522
+    second: '!$Campfire_94'
+  - first:
+      213: 163687826511704260
+    second: '!$Campfire_95'
+  - first:
+      213: -8215177564934466114
+    second: '!$Campfire_96'
+  - first:
+      213: 2141932686483749639
+    second: '!$Campfire_97'
+  - first:
+      213: 2356185953209990850
+    second: '!$Campfire_98'
+  - first:
+      213: -6355059757421798981
+    second: '!$Campfire_99'
+  - first:
+      213: 4471664258741867978
+    second: '!$Campfire_100'
+  - first:
+      213: -7088697377716485471
+    second: '!$Campfire_101'
+  - first:
+      213: -3923090235274216086
+    second: '!$Campfire_102'
+  - first:
+      213: 9135375325703904991
+    second: '!$Campfire_103'
+  - first:
+      213: -2921951692642688279
+    second: '!$Campfire_104'
+  - first:
+      213: -4591299966045924669
+    second: '!$Campfire_105'
+  - first:
+      213: 805679786691418839
+    second: '!$Campfire_106'
+  - first:
+      213: -4217193236249314344
+    second: '!$Campfire_107'
+  - first:
+      213: -7882980975331048920
+    second: '!$Campfire_108'
+  - first:
+      213: -840181610589874965
+    second: '!$Campfire_109'
+  - first:
+      213: -8563392883934990662
+    second: '!$Campfire_110'
+  - first:
+      213: -577106758695077176
+    second: '!$Campfire_111'
+  - first:
+      213: -5190067198383380700
+    second: '!$Campfire_112'
+  - first:
+      213: -6662375684943977514
+    second: '!$Campfire_113'
+  - first:
+      213: -1400174805199577872
+    second: '!$Campfire_114'
+  - first:
+      213: -5853418835814652837
+    second: '!$Campfire_115'
+  - first:
+      213: -9189475396818093180
+    second: '!$Campfire_116'
+  - first:
+      213: 4367262545004717399
+    second: '!$Campfire_117'
+  - first:
+      213: -5623075836391461929
+    second: '!$Campfire_118'
+  - first:
+      213: -3513544898535547349
+    second: '!$Campfire_119'
+  - first:
+      213: 8606439715632601734
+    second: '!$Campfire_120'
+  - first:
+      213: -786272442688963826
+    second: '!$Campfire_121'
+  - first:
+      213: 6524098580045232318
+    second: '!$Campfire_122'
+  - first:
+      213: 3746040605202784731
+    second: '!$Campfire_123'
+  - first:
+      213: -3454852907700823686
+    second: '!$Campfire_124'
+  - first:
+      213: 6479982312496070523
+    second: '!$Campfire_125'
+  - first:
+      213: 6692972128733960498
+    second: '!$Campfire_126'
+  - first:
+      213: 7939206392895253965
+    second: '!$Campfire_127'
+  - first:
+      213: 2922351065710538759
+    second: '!$Campfire_128'
+  - first:
+      213: 3042300974527722582
+    second: '!$Campfire_129'
+  - first:
+      213: 1524653966206603991
+    second: '!$Campfire_130'
+  - first:
+      213: -4741172787866785415
+    second: '!$Campfire_131'
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$Campfire_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f513f4fd0f21408d0800000000000000
+      internalID: -2881157035862314657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Campfire_1'
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7feda507d2f3f5c0800000000000000
+      internalID: -4182732623569883267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Campfire_2'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b69084c6fe90080800000000000000
+      internalID: -9220575513720296618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Campfire_3'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea7378685a4f9c00800000000000000
+      internalID: 909527393322105576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Campfire_4'
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586de38ff75ce8990800000000000000
+      internalID: -7381745585797278075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Campfire_5'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f824beb1eab9580800000000000000
+      internalID: -8819264010340626589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Campfire_6'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd63075315a10a1e0800000000000000
+      internalID: -2188720482810841377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Campfire_7'
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a327d6f9864e0b0800000000000000
+      internalID: -5700316194398913946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Campfire_8'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0275b24cc879de0800000000000000
+      internalID: -1326436791068712740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Campfire_9'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a15002c96fefff60800000000000000
+      internalID: 8070432294776623523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Campfire_10'
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb3c3fccbd201de0800000000000000
+      internalID: -1364540398139327501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Campfire_11'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227f6c34260161590800000000000000
+      internalID: -7703952098340702430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
